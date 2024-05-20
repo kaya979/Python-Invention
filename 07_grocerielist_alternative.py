@@ -1,4 +1,4 @@
-grocery_list = [] ##All lists follow the same syntax of [ , , ]
+grocery_list = [] 
 needs_items = True ##Do we need items? Yes
 
 while needs_items == True:
